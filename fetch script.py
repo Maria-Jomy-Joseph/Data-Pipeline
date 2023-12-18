@@ -17,7 +17,7 @@ db_params = {
     "port": "5432",
 }
 
-api_key = "752M66Qvgg8RAwPdxdoFXg"
+api_key = "provide api key here"
 
 api_url = "https://api.apollo.io/v1/organizations/enrich"
 
