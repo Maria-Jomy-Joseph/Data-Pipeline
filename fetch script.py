@@ -11,8 +11,8 @@ import requests
 # PostgreSQL database connection parameters
 db_params = {
     "database": "postgres",
-    "user": "postgres",
-    "password": "admin",
+    "user": "user",
+    "password": "password",
     "host": "localhost",
     "port": "5432",
 }
